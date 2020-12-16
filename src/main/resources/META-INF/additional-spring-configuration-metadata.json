@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "formatoFecha",
+    "type": "java.lang.String",
+    "description": "A description for 'formatoFecha'"
+  },
+  {
+    "name": "com.ecommerce.app.date.format",
+    "type": "java.lang.String",
+    "description": "A description for 'com.ecommerce.app.date.format'"
+  },
+  {
+    "name": "com.ecommerce.app.date.format",
+    "type": "java.lang.String",
+    "description": "A description for 'com.ecommerce.app.date.format'"
+  },
+  {
+    "name": "com.ecommerce.app.error.price.not.found",
+    "type": "java.lang.String",
+    "description": "A description for 'com.ecommerce.app.error.price.not.found'"
+  },
+  {
+    "name": "com.ecommerce.app.error.date.format.invalid",
+    "type": "java.lang.String",
+    "description": "A description for 'com.ecommerce.app.error.date.format.invalid'"
+  },
+  {
+    "name": "com.ecommerce.app.error.price.not.found",
+    "type": "java.lang.String",
+    "description": "A description for 'com.ecommerce.app.error.price.not.found'"
+  },
+  {
+    "name": "error.price.not.found",
+    "type": "java.lang.String",
+    "description": "A description for 'error.price.not.found'"
+  },
+  {
+    "name": "error.date.format.invalid",
+    "type": "java.lang.String",
+    "description": "A description for 'error.date.format.invalid'"
+  }
+]}
